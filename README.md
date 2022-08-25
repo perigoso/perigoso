@@ -6,7 +6,7 @@ If you want to know more about me take a look at my [website](https://perigoso.g
 
 I'm working as a Firmware Developer full time.
 
-I’m working on [openinput](https://openinput.readthedocs.io) on my spare time.
+I’m working on [blackmagic debug](https://github.com/blackmagic-debug/blackmagic) & [openinput](https://openinput.readthedocs.io) on my spare time.
 
 I’m looking to collaborate on anything open source
 
