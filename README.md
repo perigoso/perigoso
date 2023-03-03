@@ -12,8 +12,6 @@ I’m looking to collaborate on anything open source.
 
 Reach me through: perigoso@riseup.net
 
-*He/they*
-
 [![perigoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=perigoso&count_private=true&show_icons=true&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
 
 ![ViewCount](https://views.whatilearened.today/views/github/perigoso/perigoso.svg?cache=remove)
